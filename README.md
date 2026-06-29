@@ -7,7 +7,7 @@ A computer vision project that involves building a facial recognition pipeline f
 -Real-time face detection using MediaPipe\
 -Bounding boxes around detected Faces\
 -Video recording to file\
--Facial Landmark Detection and Alignment
+-Facial Landmark Detection
 
 ## Roadmap
 -Face embedding pipeline built from scratch\
