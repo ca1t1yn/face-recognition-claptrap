@@ -3,3 +3,9 @@
 __pycache__/
 *.task
 .venv/
+face_database.npy
+.idea/
+*.jpg
+*.jpeg
+*.png
+badname.md
