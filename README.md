@@ -6,10 +6,10 @@ A computer vision project that involves building a facial recognition pipeline f
 -Live camera feed using OpenCV\
 -Real-time face detection using MediaPipe\
 -Bounding boxes around detected Faces\
--Video recording to file
+-Video recording to file\
+-Facial Landmark Detection
 
 ## Roadmap
--Facial Landmark Detection and Alignment\
 -Face embedding pipeline built from scratch\
 -Face matching and identity recognition\
 -Pan-tilt servo motor control\
